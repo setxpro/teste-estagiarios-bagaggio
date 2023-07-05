@@ -234,6 +234,19 @@ Teremos também o metodo de remoção do usuário.
 # Deletando o usuário
 <img src="delete-success.png" alt="del"/>
 
+# Deploy
+
+<p>
+	
+	Após a realização do teste:
+ 
+	Colocar a aplicação em produção
+ 	Sites onde você consegue realizar de forma gratuita.
+</p>
+<a href="https://vercel.com/login?next=%2Fsetxpro%2Freturn-frontend%2FGsS3TVaGGDXCDf76E2pTmzdHYZpu">Vercel</a>
+<a href="https://www.netlify.com/">Netlify</a>
+<a href="https://railway.app/">Railway</a>
+
 # OBS.:
 
 ```
