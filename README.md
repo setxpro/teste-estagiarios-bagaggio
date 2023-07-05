@@ -238,7 +238,7 @@ Teremos também o metodo de remoção do usuário.
 	
  Após a realização do teste:
  
-Colocar a aplicação em produção.
+Colocar a aplicação em produção.<br/>
  Sites onde você consegue realizar de forma gratuita:
   
 <a href="https://vercel.com/login?next=%2Fsetxpro%2Freturn-frontend%2FGsS3TVaGGDXCDf76E2pTmzdHYZpu">Vercel</a><br/>
