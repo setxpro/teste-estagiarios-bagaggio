@@ -241,9 +241,9 @@ Teremos também o metodo de remoção do usuário.
 Colocar a aplicação em produção.
  Sites onde você consegue realizar de forma gratuita:
   
-	<a href="https://vercel.com/login?next=%2Fsetxpro%2Freturn-frontend%2FGsS3TVaGGDXCDf76E2pTmzdHYZpu">Vercel</a><br/>
-	<a href="https://www.netlify.com/">Netlify</a><br/>
-	<a href="https://railway.app/">Railway</a><br/>
+<a href="https://vercel.com/login?next=%2Fsetxpro%2Freturn-frontend%2FGsS3TVaGGDXCDf76E2pTmzdHYZpu">Vercel</a><br/>
+<a href="https://www.netlify.com/">Netlify</a><br/>
+<a href="https://railway.app/">Railway</a><br/>
 
 # OBS.:
 
