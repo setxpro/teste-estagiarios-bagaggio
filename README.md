@@ -1,5 +1,5 @@
 # Desafio BAGAGGIO
-<a href="https://64a2c8fe13d46c0b265483da--gleaming-manatee-2e1f4b.netlify.app/">DEPLOY</a>
+<a href="https://64a2c8fe13d46c0b265483da--gleaming-manatee-2e1f4b.netlify.app/">ACCESS DEPLOY</a>
 
 # Linguagens para a realização
 
@@ -16,7 +16,7 @@
 
 <p>
     
-    Criar uma tela de login que faça a validação de um login existente no Github.<br/>
+    Criar uma tela de login que faça a validação de um login existente no Github.
     Consultar a API do github para obter os dados do usuário.
 
     Ex: https://api.github.com/users/setxpro
@@ -31,7 +31,7 @@
 
 | Função      | Método | Endpoint                               |
 | ----------- | ------ | -------------------------------------- |
-| **getUser** | GET    | `https://api.github.com/users/{usuario}` |
+| **getUser** | GET    | `https://api.github.com/users/{login}` |
 
 ### Exemplo
 
@@ -84,13 +84,13 @@ Resposta:
     Após obter esses dados pela API o candidato deverá guardar essas informações do usuário no localstorage do navegador 
     para que seja feito o gerenciamento de estado. 
 
-    EX: localStorage.setItem("usuario", object)
+    EX: localStorage.setItem("usuario", JSON.stringfy(object))
     objtc -> o corpo da requisição da API
 </p>
 <p>
     
-    O usuário deve permanecer logado até que o mesmo queira se deslogar do sistema.<br/>
-    Para isso, deverá o candidato usar o metodo localStorage.removeItem("usuario")<br/>
+    O usuário deve permanecer logado até que o mesmo queira se deslogar do sistema
+    Para isso, deverá o candidato usar o metodo localStorage.removeItem("usuario")
     removendo o usuário e o levando para a página de login.
 </p>
 
@@ -116,13 +116,18 @@ para isso, deverá ser feito uma verificação no momento do login.
             alert(error.response.data.message)
         }
 
-    error.response.data.message -> forma de obter a resposta do servidor.
+    error.response.data.message -> forma de obter a resposta do servidor do Github.
 
 ```
 <p>
 
     Se não houver um usuário com esse login.
     o Github responderá com o status 404 -> com a mensagem - "Not Found"
+</p>
+
+<p>
+
+	Obs.: Qualquer usuário poderá se logar no sistema utilizando o próprio Github. 
 </p>
 
 ---
@@ -137,7 +142,7 @@ PART 2
 <p>
     
     deve ser preenchido com a foto do usuário e nome.
-    a página home não precisa ser algo complexo.
+    A página home não precisa ser algo complexo.
 </p>
 
 
@@ -162,7 +167,7 @@ PART 2
 OBS.: 
 
     Quando o usuário terminar de preencher o CEP.
-    Deverá fazer uma requisição para a API do governo que disponibiliza
+    Deverá fazer uma requisição para a API BRASIL que disponibiliza
     gratuitamente no site.
 
     e preencher automaticamente os campos de rua, cidade e UF
@@ -225,7 +230,7 @@ Resposta:
 ```
 Teremos também o metodo de remoção do usuário. 
 ```
-# Perguntando se desejo realmente excluir o usuário
+# Pergunta se deseja excluir um usuário
 <img src="delete.png" alt="del"/>
 
 # Abortando a ação clicando em cancelar
@@ -239,7 +244,9 @@ Teremos também o metodo de remoção do usuário.
  Após a realização do teste:
  
 Colocar a aplicação em produção.<br/>
- Sites onde você consegue realizar de forma gratuita:
+Enviar o link do repositório da aplicação e a url do 
+projeto em produção para o e-mail: 
+Sites onde você consegue realizar de forma gratuita:
   
 <a href="https://vercel.com/login?next=%2Fsetxpro%2Freturn-frontend%2FGsS3TVaGGDXCDf76E2pTmzdHYZpu">Vercel</a><br/>
 <a href="https://www.netlify.com/">Netlify</a><br/>
