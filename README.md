@@ -244,8 +244,9 @@ Teremos também o metodo de remoção do usuário.
  Após a realização do teste:
  
 Colocar a aplicação em produção.<br/>
-Enviar o link do repositório da aplicação e a url do 
+Enviar o link do repositório da aplicação e a url do <br/>
 projeto em produção para o e-mail: 
+<br/>
 Sites onde você consegue realizar de forma gratuita:
   
 <a href="https://vercel.com/login?next=%2Fsetxpro%2Freturn-frontend%2FGsS3TVaGGDXCDf76E2pTmzdHYZpu">Vercel</a><br/>
