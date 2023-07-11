@@ -245,7 +245,7 @@ Teremos também o metodo de remoção do usuário.
  
 Colocar a aplicação em produção.<br/>
 Enviar o link do repositório da aplicação e a url do 
-projeto em produção para o e-mail: 
+projeto em produção para o e-mail: ```allan.franca@bagaggio.com.br```
 <br/>
 Sites onde você consegue realizar de forma gratuita:
   
