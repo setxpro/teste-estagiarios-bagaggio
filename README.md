@@ -264,8 +264,9 @@ O desafio consistem em saber o nível de conhecimento do candidato acerca de con
 
 <p>
 
-	Quem tiver Discord e deseja tirar alguma dúvida
+	Quem tiver Discord e deseja tirar alguma dúvida.
+	Acesse clicando no link abaixo.
 </p>
-<a href="https://discord.gg/p8CDJCTg">Acessar o Discord</a>
+<a href="https://discord.gg/p8CDJCTg">Ir para o Discord</a>
 
 Boa sorte! 💚⚡
