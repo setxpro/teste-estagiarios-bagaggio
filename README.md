@@ -262,4 +262,10 @@ O desafio consistem em saber o nível de conhecimento do candidato acerca de con
 
 <a href="https://64a2c8fe13d46c0b265483da--gleaming-manatee-2e1f4b.netlify.app/">DEPLOY</a>
 
+<p>
+
+	Quem tiver Discord e deseja tirar alguma dúvida
+</p>
+<a href="https://discord.gg/p8CDJCTg">Acessar o Discord</a>
+
 Boa sorte! 💚⚡
