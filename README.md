@@ -16,7 +16,7 @@
 
 <p>
     
-    Criar uma tela de login que faça a validação de um login existente no Github.
+    Criar uma tela de login que faça a validação de um cadastro existente no Github.
     Consultar a API do github para obter os dados do usuário.
 
     Ex: https://api.github.com/users/setxpro
