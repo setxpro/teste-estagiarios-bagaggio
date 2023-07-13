@@ -206,14 +206,16 @@ Resposta:
 
 ---
 
+
+
+# Tabela com o usuário cadastrado
+<img src="Captura de tela 2023-06-27 161244.png" allt="campos-preenchidos">
+
 <p>
 
     Observe que na coluna "Ações" estão os metodos de editar, visualizar e deletar
 
 </p>
-
-# Tabela com o usuário cadastrado
-<img src="Captura de tela 2023-06-27 161244.png" allt="campos-preenchidos">
 
 ---
 
